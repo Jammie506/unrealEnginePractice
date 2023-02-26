@@ -1,0 +1,4 @@
+Target dependency graph (2 targets)
+unrealEnginePractice_Build in unrealEnginePractice, no dependencies
+unrealEnginePractice in unrealEnginePractice, depends on:
+unrealEnginePractice_Build in unrealEnginePractice (explicit)

@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "unrealEnginePractice",
+			"Path": "/Users/jamiemccarthy/Documents/Game Dev Stuf/Unreal Engine/unrealEnginePractice/unrealEnginePractice/Source/unrealEnginePractice.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "unrealEnginePracticeEditor",
+			"Path": "/Users/jamiemccarthy/Documents/Game Dev Stuf/Unreal Engine/unrealEnginePractice/unrealEnginePractice/Source/unrealEnginePracticeEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

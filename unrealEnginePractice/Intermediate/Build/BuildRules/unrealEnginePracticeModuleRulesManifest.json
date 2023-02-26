@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"/Users/jamiemccarthy/Documents/Game Dev Stuf/Unreal Engine/unrealEnginePractice/unrealEnginePractice/Source/unrealEnginePractice/unrealEnginePractice.Build.cs",
+		"/Users/jamiemccarthy/Documents/Game Dev Stuf/Unreal Engine/unrealEnginePractice/unrealEnginePractice/Source/unrealEnginePractice.Target.cs",
+		"/Users/jamiemccarthy/Documents/Game Dev Stuf/Unreal Engine/unrealEnginePractice/unrealEnginePractice/Source/unrealEnginePracticeEditor.Target.cs"
+	],
+	"EngineVersion": "5.1.0"
+}
