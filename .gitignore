@@ -73,3 +73,10 @@ Plugins/**/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+# Unreal project is nested under unrealEnginePractice/
+unrealEnginePractice/Binaries/*
+unrealEnginePractice/Build/*
+unrealEnginePractice/Intermediate/*
+unrealEnginePractice/Saved/*
+unrealEnginePractice/DerivedDataCache/*
